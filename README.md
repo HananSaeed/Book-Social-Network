@@ -34,10 +34,6 @@ Book Social Network is a full-stack application that enables users to manage the
 
 ![Security diagram](screenshots/be-pipeline.png)
 
-#### Backend pipeline
-
-![Security diagram](screenshots/fe-pipeline.png)
-
 ## Technologies Used
 - Spring Boot 3
 - Spring Security 6
