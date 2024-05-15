@@ -5,7 +5,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-  - [Backend (book-social-network)](#backend-book-social-network)
 - [Learning Objectives](#learning-objectives)
 
 ## Overview
